@@ -1,0 +1,4 @@
+name = Drush Util
+description = Drush utility functions.
+package = none
+core = 7.x
